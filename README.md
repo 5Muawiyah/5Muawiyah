@@ -11,6 +11,8 @@ London, UK &middot; [youngnug.com](https://youngnug.com) &middot; muawiyahjahan@
 
 #### [MAHAD](https://github.com/5Muawiyah/MAHAD) &middot; desktop market-risk workstation
 
+<a href="https://github.com/5Muawiyah/MAHAD"><img src="https://raw.githubusercontent.com/5Muawiyah/MAHAD/main/docs/images/dashboard.png" alt="The MAHAD dashboard: a live price chart, a watchlist, the risk panel, and a simulated portfolio with live profit and loss" width="720"></a>
+
 Live stock and crypto data, a simulated USD portfolio with live profit and loss, and a market-risk suite on top: historical and parametric Value-at-Risk, Expected Shortfall, component VaR, beta, Sharpe and Sortino, EWMA volatility, drawdown, concentration, and a Kupiec / Basel traffic-light backtest. Every figure is labelled with its window and basis, so two numbers for the same holding are never ambiguous.
 
 Built in layers so the risk engine is pure Python with no Qt in it. That is what makes 697 headless tests possible.
