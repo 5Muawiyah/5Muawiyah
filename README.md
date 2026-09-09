@@ -1,6 +1,6 @@
 ## Muawiyah Jahanzaib
 
-**Financial systems and business analyst.** I sit between finance and engineering. I take a financial process, work out what it actually has to produce, and build the system that produces it: the data pipeline, the calculation, the controls around it, and the screen someone uses.
+I sit between **finance and engineering**. I take a financial process, work out what it actually has to produce, and build the system that produces it: the data pipeline, the calculation, the controls around it, and the screen someone uses.
 
 BSc (Hons) Accounting and Business Management, **First Class**, Brunel University London, 2026.
 London, UK &middot; [youngnug.com](https://youngnug.com) &middot; muawiyahjahan@gmail.com
