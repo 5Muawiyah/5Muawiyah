@@ -19,9 +19,9 @@ Built in layers so the risk engine is pure Python with no Qt in it. That is what
 
 `Python 3.13` `PySide6 / Qt` `pandas` `NumPy` `SQLAlchemy` `pytest`
 
-#### [YoungNug](https://github.com/5Muawiyah/youngnug-case-study) &middot; job-application platform &middot; co-founder and lead developer
+#### [YoungNug](https://github.com/5Muawiyah/youngnug-case-study) &middot; job-application platform &middot; lead developer and co-founder
 
-A live UK job platform that collects vacancies, scores role fit with the reasons for and against, and drafts tailored applications. My work on it is system design and the security layer: authentication, per-user data isolation enforced in the query layer, encryption of sensitive fields at rest, GDPR export and deletion, and a browser companion built never to submit on a user's behalf.
+A live UK job platform that collects vacancies, scores role fit with the reasons for and against, and drafts tailored applications. I lead its development. My work on it is system design and the security layer: authentication, per-user data isolation enforced in the query layer, encryption of sensitive fields at rest, GDPR export and deletion, and a browser companion built never to submit on a user's behalf.
 
 The product source is private. The linked repository is a written case study of the architecture and the decisions behind it.
 
