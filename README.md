@@ -36,6 +36,7 @@ Code is how I make the finance work at scale. Both halves are the point.
 ### Toolbox
 
 **Data and code** &middot; Python (pandas, NumPy, pytest), SQL, SQLite / PostgreSQL / SQLAlchemy, TypeScript and React, PySide6 / Qt, Git
+
 **Finance** &middot; financial modelling and DCF, market-risk analytics (VaR, Expected Shortfall), double-entry bookkeeping, Sage 50, advanced Excel
 
 ---
