@@ -29,7 +29,7 @@ The product source is private. The linked repository is a written case study of 
 
 ### Where this comes from
 
-An accounting degree, not a computer science one. Financial Management, Corporate Reporting, Accounting Information Systems and Managing Information with Technology all at A+, and a 40-credit final-year project on the IAS 16 treatment of GPUs and its effect on reported earnings and return on assets.
+Financial Management, Corporate Reporting, Accounting Information Systems and Managing Information with Technology all at A+, and a 40-credit final-year project on the IAS 16 treatment of GPUs and its effect on reported earnings and return on assets.
 
 Code is how I make the finance work at scale. Both halves are the point.
 
