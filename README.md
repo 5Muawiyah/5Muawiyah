@@ -29,6 +29,16 @@ The product source is private. The linked repository is a written case study of 
 
 `Python` `FastAPI` `SQLAlchemy` `React` `TypeScript` `PostgreSQL`
 
+#### [YoungNug Companion](https://github.com/5Muawiyah/youngnug-companion) &middot; browser extension for job applications &middot; open source
+
+<a href="https://github.com/5Muawiyah/youngnug-companion"><img src="https://raw.githubusercontent.com/5Muawiyah/youngnug-companion/main/docs/img/review_screen.png" alt="The Companion's review screen: every guessed field and drafted answer listed for approval before anything is written to the form" width="720"></a>
+
+The browser half of YoungNug, published in full under Apache-2.0. It captures a job advert from the page a student is reading and fills the application form from their profile, in their own signed-in browser. A dedicated adapter for each of eighteen application systems (Workday, Greenhouse, Lever, LinkedIn Easy Apply, Reed and the rest), a label-reading heuristic ladder for everything else, and one rule that never bends: it fills, shows a review screen, and stops. It never submits, never solves a captcha, never writes a password or a payment field, and a local kill switch works with the network down.
+
+The repository is written analysis-first: the process a student repeats by hand, the requirements the extension is tested against, and the decision log with the alternatives rejected, before the build detail.
+
+`JavaScript` `Chrome Manifest V3` `esbuild` `jsdom` `Playwright` `pytest`
+
 ---
 
 ### Where this comes from
